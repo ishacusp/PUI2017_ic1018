@@ -8,8 +8,10 @@ Assignment 1
 
 Assignment 2
 1. Created a directory called PUI2017 on my local machine
-2. Created an environmental variable PUI2017 by editing the bash profile (.bashrc file) using export command (See Figure 1 below for command instructions)
-3. Create an alias 'pui2017' using alias command in the bash file (.bashrc), to directly access PUI2017 directory using alias 'pui2017' (See Figure 1 below for details)
+2. Created an environmental variable PUI2017 by editing the bash profile (.bashrc file) using export command (See Image1 below for command instructions)
+3. Create an alias 'pui2017' using alias command in the bash file (.bashrc), to directly access PUI2017 directory using alias 'pui2017' (See Image1 below for details)
+
+![Image1](https://github.com/ishacusp/PUI2017_ic1018/blob/master/HW1_ic1018/Screenshot_HW1.PNG)
 
 
 
