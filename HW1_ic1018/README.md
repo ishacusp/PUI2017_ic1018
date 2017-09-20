@@ -20,6 +20,12 @@ Image 2:
 ![Image2](https://github.com/ishacusp/PUI2017_ic1018/blob/master/HW1_ic1018/pwd.PNG)
 
 
+Assignment 3
+1. Completed the Question 1 individually
+2. Took advice from Gaurav for generating 50 more random 2 * 100 numpy arrays
+3. Took Gaurav's help to understand the logic behind the for loop: for j in range(100)
+4. Worked individually on the challenge part
+
 
 
 
