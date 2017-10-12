@@ -1,5 +1,6 @@
 # Assignment 1
 For this Assignment, I followed the professor requirements to review Andrew Nell Cikibike assignment. I worked alone on this assignment as required.
+I first forked and cloned Guobing Chen repository but found out he has removed the hypothesis testing from his file few days ago. I then changed to review Andrew's work.
 
 # Assignment 2
 In this assignment, I took Ben's massive help and advice to find articles to read on [PLOS ONE](http://journals.plos.org/plosone/) and fill 
