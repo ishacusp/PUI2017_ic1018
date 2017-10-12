@@ -1,3 +1,6 @@
+# Assignment 1
+For this Assignment, I followed the professor requirements to review Guobing Chen Cikibike assignment. I worked alone on this assignment as required.
+
 # Assignment 2
 In this assignment, I took Ben's massive help and advice to find articles to read on [PLOS ONE](http://journals.plos.org/plosone/) and fill 
 in the contents of the statistical test table.
