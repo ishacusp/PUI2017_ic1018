@@ -9,4 +9,4 @@ I did this assignment on my own, following the professor skeleton notebook.
 HW5_Assignment3
 
 I took Ben's help for this assignment, specially for fetching csv file directly from the API key.
-I seeked Rachel's help for conducing modelling
+I seeked Rachel's help for doing modelling.
