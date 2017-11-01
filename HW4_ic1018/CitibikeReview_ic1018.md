@@ -12,9 +12,13 @@ The idea looks good and coherent. The null hypothesis in my view, should have be
 "The ratio of women biking on weekends over women biking on weekdays is the same or higher than the ratio of men biking over weekends to men biking on weekdays"
 as we want to know whether women bikes less than men, and hence the null hypothesis should be reversed. Also it would have been better if it was given in the terms of weekday count over the weekend count, because people bike a lot more for commute during the week than the weekend.
 
+# FBB if i understand the idea it should be Women_weekend/Women_weekdays <= Men_weekend/Men_weekdays 
+
 A better hypothesis which helps in assessing the 'Idea' after taking in the above two suggestions would be following:
 
 "The ratio of women biking on weekdays over women biking on weekend is the same or higher than the ratio of men biking over weekdays to woman biking on weekend"
+
+** null should convey opposite of idea (of suspected effect) **
 
 The alternative hypothesis would therefore be reversed in this case and would be following:
 "The ratio of women biking on weekdays over women biking on weekend is less than the ratio of men biking over weekdays to men biking on weekend"
@@ -30,3 +34,4 @@ As the test involves to compare the differences between the two categorical vari
 d) Additonal Comments
 Overall, hypothesis testing look fine. He can perhaps join multiple months data to have a bigger dataset to address the 'Idea', instead of sorely relying on one particular month data.
 
+# FBB i think you are wrong on the null formulation (if i get the idea right). otherwise good
