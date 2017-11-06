@@ -12,6 +12,8 @@ in the contents of the statistical test table.
 |Path analysis|perceived emotion|1, categorical|acoustic measures, proximal percepts|8, continuous|||Which computation paths are responsible for which perceived emotions|path coefficient = 0|0.02|[Path Models of Vocal Emotion Communication](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0136675)|
 Logistic Regression |AUC|1, continuous|various classifiers|5, categorical|||Does their predictor predict cases of Leukemia better than existing classifiers|AUC of AML positive = AUC of healthy|0.05| [Leukemia Prediction Using Sparse Logistic Regression](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0072932)|
 
+# FBB good
+
 # Assignment 3
 In this assignment, I work independently for the most part, specifically to reproduce the results. Ocassionally took help from Gaurav for
 the TODO part for the z score calculations.
