@@ -1,5 +1,5 @@
-Image 1:
-![Image1](https://github.com/ishacusp/PUI2017_ic1018/blob/master/HW8_ic1018/Img.PNG)
+Figure 1:
+![Figure1](https://github.com/ishacusp/PUI2017_ic1018/blob/master/HW8_ic1018/Img.PNG)
 
 
 Figure 1: Color Map showing the Hong Kong Hourly Air Quality Health Index (AQHI) at different
