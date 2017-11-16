@@ -1,3 +1,7 @@
+Image 1:
+![Image1](https://github.com/ishacusp/PUI2017_ic1018/blob/master/HW8_ic1018/Img.PNG)
+
+
 Figure 1: Color Map showing the Hong Kong Hourly Air Quality Health Index (AQHI) at different
 Air Quality Monitoring stations for October 2017. The AQHI is recorded by HK-Environmental
 Protection Department (HK). The AQHI informs the short-term health risk of air pollution
