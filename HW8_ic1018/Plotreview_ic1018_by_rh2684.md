@@ -2,9 +2,9 @@
 ## Plot review
 
 <p>
-**Plot**: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hong Kong Hourly Air Quality Health Index (AQHI) at different Air Quality Monitoring stations for October 2017<br>
-**Author**: &nbsp;&nbsp;&nbsp;&nbsp; Isha Chaturvedi, ic1018<br>
-**Reviewer**: &nbsp;Ruben Hambardzumyan, rh2684</p>
+          <b>Plot</b>: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hong Kong Hourly Air Quality Health Index (AQHI) at different Air Quality Monitoring stations for October 2017<br>
+          <b>Author</b>: &nbsp;&nbsp;&nbsp;&nbsp; Isha Chaturvedi, ic1018<br>
+          <b>Reviewer</b>: &nbsp;Ruben Hambardzumyan, rh2684</p>
 
 ### Clarity:
 
@@ -57,4 +57,4 @@ The visualisation represents the data quite good. The only concern that I have i
 **Overall**, I really like the visualization, and consider this a great analysis!
 </p>
 
-![Hong Kong Hourly Air Quality Health Index (AQHI) at different Air Quality Monitoring stations for October 2017](img.png)
+![Hong Kong Hourly Air Quality Health Index (AQHI) at different Air Quality Monitoring stations for October 2017](Img.PNG)
