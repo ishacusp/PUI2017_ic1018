@@ -20,4 +20,7 @@ Overall Good Work!
 # FBB 
 the 'AIDS main cause of dead men ages 25-44' label is aligned to a portion of the "Total" time series which I do not think is the right portion of the plot: as it is it reads that AIDS was the main cause of theadh from the beginning of that slope to its end, while likely it was the main cause of death around the pick, extending left and right from it. A good way to display it would be a horizontal bar that indicates the time range when AIDS is the leading cause of death on top of the time series, and the lable goes on top of it horizontally. There is also a typo: it should be death instead of dead -> this affects clarity and may also be used to dishonestly represent the importance of AIDS as a contributor to death if it is intended to suggest that AIDS always is the main contributor when it is in fact not
 
+# FBB 
+labels are way too small, especially considering the large amount of empty space in the plot
+
 10/10
