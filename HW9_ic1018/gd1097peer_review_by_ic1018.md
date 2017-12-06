@@ -14,5 +14,12 @@ The plot is pretty aesthetic and have a good propotion of information depiction 
 HONESTY:
 The plot is honest, and doesn't deform the information. However, the Manhattan Condominium Property Age is calculated with respect to 2011 (I understood this after going through the jupyter notebook), which is no where mentioned in the plot or its description. There is also no reason given of why 2011 is chosen as base year to calculate the property age.
 
+# FBB good catch
+
 SUGGESTION:
 I would suggest to have a title and a well-informed caption for the plot. The caption should mention that property age is calculated with respect to 2011, and perhaps the range of years covered, and sudden increase or decrease in the property value (specifically at 75 and 150 property age).
+
+# FBB 
+Assitionally: I dont think there is a sidden increase/decrease in property value, but just more construction, perhaps tall buildings that add a large number of condos, and then the average price of condos in the building may be similar, but you have more outliers. This speaks to lack of clarity/honesty. To fix it the designer chould include a rolling mean of the proce, to see how it change over large enough periods of time to inform the difference inside and outside of the gaps/bursts in construction
+
+10/10
