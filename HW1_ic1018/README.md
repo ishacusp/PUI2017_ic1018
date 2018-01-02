@@ -2,7 +2,7 @@
 
 Assignment 1
 1. Created git repository ic1018 using mkdir on the local machine, and then created a file: myfirstfile.txt inside ic1018 using touch
-2. Created git repository online gittest_ic1018, and pushed the existing repository ic1018 (the repository inside the local machine) to the online GitHub repository gittest_ic1018 (pushed on the cloud)
+2. Created git repository online ic1018, and pushed the existing repository ic1018 (the repository inside the local machine) to the online GitHub repository ic1018 (pushed on the cloud)
 3. Forked and sent merge request to Gaurav to mess the firstfile.txt in his repo(PUI2017_gb1877)
 4. Got Pull Request from Rachel ( rxl_204 ) and merged those conflicts
 
